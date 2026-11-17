@@ -1,0 +1,6 @@
+{
+  "name": "MedBridge",
+  "description": "Medical equipment sharing portal connecting donors and NGOs with catalog listing, request cart, and verifiable e-receipt generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
